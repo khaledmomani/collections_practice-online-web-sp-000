@@ -1,4 +1,4 @@
 def sort_array_asc(nums)
-  nums.sort do
-    <=>
+  nums.sort do |1,2|
+    1 <=> 2 
 end
