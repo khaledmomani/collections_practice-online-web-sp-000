@@ -1,6 +1,5 @@
-def sort_array_asc(nums)
-  nums.sort do |1, 2|
-    1 <=> 2 
+def sort_array_as(array)
+  array.sort
 end
 puts num.sort
 end
